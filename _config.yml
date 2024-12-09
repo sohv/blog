@@ -23,8 +23,8 @@ email: soh.venkatesh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'll dive into computer vision, large language models, software engineering, and share my project updates, and review AI research papers.
   See you on the blog!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-blog" # the subpath of your site, e.g. /blog
+url: "https://sohv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: imsohanv
 github_username:  sohv
 
